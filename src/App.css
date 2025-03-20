@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+form {
+  color:aqua;
+  display: flex;
+  
+}
+
+label {
+ padding-left: 40px;
+}
+
+button {
+  margin-left: 40px;
+}
